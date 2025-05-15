@@ -17,7 +17,7 @@ O IMC é calculado com a fórmula:
 
 ```
 
-![Fórmula IMC](./assets/imc-image.jpg)
+![Fórmula IMC](./assets/image-imc.jpg)
 
 ````
 
