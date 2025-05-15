@@ -47,9 +47,10 @@ Após o cálculo, o app exibe a **classificação** do IMC conforme a tabela aba
 ---
 
 ## 📷 Captura de Tela
-
+### Tela principal do app com IMC calculado
 ![Tela principal do app com IMC calculado](./assets/image-ok.jpg)
 
+### Tela principal do app com erro
 ![Tela principal do app com erro](./assets/image-error.jpg)
 
 
