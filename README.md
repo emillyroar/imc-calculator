@@ -17,7 +17,7 @@ O IMC é calculado com a fórmula:
 
 ```
 
-![Fórmula IMC](./assets/image-imc.jpg)
+IMC = Peso(kg) / (Altura(cm) * Altura(cm))
 
 ````
 
